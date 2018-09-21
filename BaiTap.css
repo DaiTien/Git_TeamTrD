@@ -1,0 +1,39 @@
+.khung{
+	width: 100%;
+	height: 400px;
+	background:beige;
+}
+.khung .bx1{
+	width: 100%;
+	height: 200px;
+	background: red;
+}
+.bx1 .left{
+	width: 49%;
+	height: 100%;
+	background: gray;
+	float: left;
+	margin-left: 1%;
+}
+.bx1 .right{
+	margin-left: 1%;
+	width: 49%;
+	height: 100%;
+	background: green;
+	float: left;
+}
+.khung .bx2{
+	width: 100%;
+	height: 200px;
+	background: black;
+}
+.bx2 .bx{
+	width: 30%;
+	height: 100%;
+	background: blue;
+	float: left;
+}
+.bx2 .diff{
+	margin-left: 5%;
+	margin-right: 5%;
+}
